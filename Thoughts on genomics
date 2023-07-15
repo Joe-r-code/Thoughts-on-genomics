@@ -1,0 +1,66 @@
+If anyone viewing this wants to get involved in an open source genomics project please read on and or visit (https://github.com/Joe-r-code/Joe-r-code/edit/main/README.md) or search for all the others out there.
+
+This is just for fun, but I am hoping to get funding for experiments and HPC time. But this is also a post about my thoughts on genomics so feel free to interact, digest or criticise, or a % percent of each.
+
+Feacal matter is at least 40% dry weight bacterial cells, there are more bacterial cells, than human cells associated with a single homosapien. 
+
+But a human can be described as a both a self sustaining eco-system and a 3 dimensional surface, that contains chemicals where energy can be exchanged and also simply a space-time object. 
+
+Have you checked out googles quantum.ai and others quantum computing offering service (how many dimensions have you been in?) Shout out Charlie Brooker and co.
+
+While you're focused on maintaining homeostasis, you're also an environment and if you're not a web scraper you can provide nutrients, places to replicate, allowing the conditions for information to generate or even the conditions to let information spontaneously form and this can be encoded in the polymers of life.
+
+I would like to both focus on bacteria, fungi, plants, protozoa, archea and DNA sequencing, so if you're reading this in the future then please feel free to fork and download the source code. Or even to back it up.
+
+Nucleic acid sequencing is still an expensive endeavour but a single bacterial gene can be investigated from as little as £2. But there are publicly available sequencing sets, and private collections both from a research perspective and a profit perspective. And yes then there is the whole human problem, and while yes you could forensically analyse the microbiome, barcoding someone would be easy. I just steer clear of that.
+
+The publicly available nucleic acid datasets provide rich sources of data. And should be constantly investigated and as unformation they can be used in machine learning, or AI frameworks. 
+
+When will we know when we trained the most advanced model or ai and what do we even want it to tell us anyway and whose to say that human eyes aren't the best anyway. 
+
+I would say we've only just started in the world of genomics. I think there should be a central directory for sequence information and that it should be easy to download by the command line including file structure or program written in bash, unix, and powershell. Easily making all other the reads available to whomever wants them. But maybe querying them over the Internet would be a better approach as storing large datasets can be expensive. 
+
+My approach to genomics is not to exclude any reads, I think quality control is important. We don't want a read where the confidence interval says that base call is probably wrong. We should also implement version control or at least maintain a full electronic record (or lab notes) of each manipulation to the data, dna block chain technology? 
+
+You should be aware: honestly guys, certain fields can be autoconverted in many editors looking at you excel, and yes you can rename .csv, paste in plain format or change cell type format but at the end of the day it can be randomly autocorrected or a cat walks across your keyboard. And this has affected genomics and bioinformatic studies and still does.
+
+For me it's de novo (metagenomics) assembly, and then reference based assembly by mapping the reads to all the currently sequenced assemblies and in parallel map the reads to the de novo assemblies. We should use as many peer reviewed, or at least bug reportable, computer programs do this. And that's just to get through consensus calling, and I think variant calling should be done from both read mapping and consensus sequence comparison.
+ 
+Here are some things I think we should do when variant calling.
+
+Variation in the DNA bases themselves through epigenetic chemical modification such as 4mC, 5mC, 6mA, phosohothoriation and glycosyaltion.
+
+SNPs
+InDels
+Polytracts
+(Palindrome)
+Direct and inverted repeats 
+Recombination between sister chromatids 
+Enzyme mediated recombination 
+Mobile genetic elements
+Phages
+Recombination of exogenous DNA, through Competence states, pili, nanotubes.
+Crispr - how dynamic, at rate are spacers acquired?
+
+These can all be important thinks to consider when wondering if the nucleic acid sequence you're looking at describes the population structure.
+
+There are so many ways to compare nucleic acid sequences we typically store the data as text files. But raw sequence data can be the position of a gel band, the measurement of an electromagnetic wave through a camera or a protein channel, and any other ways we can think of.
+
+How to properly store that information on digital platforms and make it easily readable, parsable, or information rich probably means we shouldn't have a single defined file structure. But we need a set of rules, and these rules should be iterated on, really on set dates, through decentralised or centralised processes or both, but a defined information structure makes writing code and reading easier. 
+
+Imagine this next paragraph as a footnote that you don't have to jump to the bottom of the page to read ¹because don't worry, to understand, you could read some terry prachett novels Vetinari gave us all phones.
+
+Variants of dna exist in what we define as a clonal population, a polymer of DNA is capable of exchanging energy - but dna structure on every level- from the chemical structure of the base to even if its double stranded, closed, and even a right handed hleix always in the same order is always up for debate and some investigation but more on that later, back to the real life considerations of how to iterate on, replicate, confirm, and discover in the field of nucleic acid sequencing science.
+
+There are many ways to get to DNA samples that you can sequence. 
+
+One DNA extraction will probably not be a complete representation of what you sampled. Also you can see a large population of concentrated bacteria with human eyes so its only the cells that are micro and some bacterial cells exist in the 100um range and genome size complexity is hardly based on the expression of a single gene ( or rna or protein….) and it can't be, because of all the mobile genetic elements that have been experimentally shown to move around DNA and the fact that DNA can recombine with itself both homologously and with more machinery based processes and there are organism without cells like viruses and phages for two common examples. There also exist multiple methods to transfer DNA between cells.
+
+The next bit gets a bit complicated but DNA elements can self encode their transfer and  not be removed but what we're really talking about here is a chemical polymer and I like to focus primarily on aDNA and RNA as these carry a set of instructions that is interpreted in the algorithms of existence.
+
+When experimenting and attempting to sequence nucleic acids, if you are able to do that and I am looking forward to hopefully doing it myself in the future. What do you think is important to consider?
+
+The ability to consider both omic technologies and as is essential in science and for fun, more targeted technologies both to confirm the dataset and look with a greater resolution.
+
+
+
